@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	helloWorld()
-	runValues()
+	// helloWorld()
+	// runValues()
+	runVariables()
 }
