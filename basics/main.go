@@ -4,5 +4,6 @@ func main() {
 	// runValues()
 	// runConstants()
 	// forLoop()
-	runIfElse()
+	// runIfElse()
+	runSwitch()
 }
