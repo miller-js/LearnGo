@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// runArrays()
-	runSlices()
+	// runSlices()
+	runMaps()
 }
