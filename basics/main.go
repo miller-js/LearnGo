@@ -5,6 +5,5 @@ func main() {
 	// runConstants()
 	// forLoop()
 	// runIfElse()
-	// runSwitch()
-	runMaps()
+	runSwitch()
 }
